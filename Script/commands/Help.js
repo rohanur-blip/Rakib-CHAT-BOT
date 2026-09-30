@@ -232,7 +232,7 @@ ${msg}
 ┃ 🤖 Bot Name:
 ┃ ${botName}
 ┃ 🔰 Owner:
-┃ 𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐒𝐀𝐇𝐔
+┃ Rakibul islam
 ╰━━━━━━━━━━━━━━━━╯`;
 
   sendMessage(
