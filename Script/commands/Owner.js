@@ -39,7 +39,7 @@ wa.me/01882333**
 `;
 
   const images = [
-    "https://i.imgur.com/hPtliXo.jpeg",
+    "https://imgur.com/a/GuTG9fM",
     "https://i.imgur.com/cwd64Av.jpeg",
     "https://i.imgur.com/L7txp4M.jpeg",
     "https://i.imgur.com/5dG8PS5.jpeg"
