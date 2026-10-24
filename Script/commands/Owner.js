@@ -32,7 +32,7 @@ module.exports.run = async function ({ api, event }) {
 fb.com/100088423634316
 
 💬 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿:
-m.me/100044713412032
+m.me/100088423634316
 
 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽:
 wa.me/01882333**
