@@ -21,7 +21,7 @@ module.exports.run = async function ({ api, event }) {
 👤 𝗡𝗮𝗺𝗲: Rakibul Islam 
 🧸 𝗡𝗶𝗰𝗸 𝗡𝗮𝗺𝗲: rakib
 🎂 𝗔𝗴𝗲: 𝟭𝟴+
-💘 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻: 𝗦𝗶𝗻𝗴𝗹𝗲
+💘 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻: m....
 🎓 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻: 𝗦𝘁𝘂𝗱𝗲𝗻𝘁
 📚 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻: 𝗛𝗦𝗖
 🏡 𝗔𝗱𝗱𝗿𝗲𝘀𝘀: Mymensingh 
@@ -39,10 +39,10 @@ wa.me/01882333**
 `;
 
   const images = [
-    "https://imgur.com/a/GuTG9fM",
-    "https://i.imgur.com/cwd64Av.jpeg",
-    "https://i.imgur.com/L7txp4M.jpeg",
-    "https://i.imgur.com/5dG8PS5.jpeg"
+    "https://i.imgur.com/gDMBOVS.jpeg",
+    "https://i.imgur.com/HjUsZQu.jpeg",
+    "https://i.imgur.com/EgO59Xm.jpeg",
+    "https://i.imgur.com/gDMBOVS.jpeg"
   ];
 
   const randomImg =
